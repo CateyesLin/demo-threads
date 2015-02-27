@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">DemoThreads</string>
+    <string name="add">增加一個下載任務</string>
+    <string name="pause">暫停</string>
+    <string name="resume">繼續</string>
+    <string name="cancel">到此為止</string>
+    <string name="pending">等待中</string>
+    <string name="downloading">處理中</string>
+    <string name="finished">已完成</string>
+    
+</resources>
